@@ -6,3 +6,4 @@ If the user wants to exit the program, they can hit any key to exit because it o
 'yes' and 'y'.
 
 docker image url : https://hub.docker.com/r/xindl0423/a4_dice
+git hub irl : https://github.com/xindl0423/net2008_a4
