@@ -1,4 +1,4 @@
-import random
+import random9
 
 def rolldice():
     return random.randint(1, 6)
